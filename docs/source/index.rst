@@ -1,13 +1,11 @@
-Welcome to Lumache's documentation!
+Sindano Health Documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Sindano Health** is a company founded in 2022 by Tara Marshall-Hill.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+There are currently two projects under active development in the Sindano Health portfolio: 
+- Join Sindano Review App
+- Sindano Health Reporting Dashboard
 
 .. note::
 
